@@ -289,9 +289,9 @@ cd data/masif_ppi_search/
 The lists of pdb ids and chains used in the training and test sets are located under: 
 
 ```
-data/masif_ppi_searhc/data/lists/full_list.txt
-data/masif_site/data/lists/training.txt
-data/masif_site/data/lists/testing.txt
+data/masif_ppi_search/lists/full_list.txt
+data/masif_ppi_search/lists/training.txt
+data/masif_ppi_search/lists/testing.txt
 ```
 
 Precompute the datasets (see [MaSIF data preparation](#MaSIF-data-preparation)), ideally using slurm:
