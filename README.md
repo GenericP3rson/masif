@@ -232,9 +232,9 @@ cd data/masif_site/
 The lists of pdb ids and chains used in the training and test sets are located under: 
 
 ```
-data/masif_site/data/lists/full_list.txt
-data/masif_site/data/lists/training.txt
-data/masif_site/data/lists/testing.txt
+data/masif_site/lists/full_list.txt
+data/masif_site/lists/training.txt
+data/masif_site/lists/testing.txt
 ```
 
 Precompute the datasets (see [MaSIF data preparation](#MaSIF-data-preparation)), ideally using slurm:
